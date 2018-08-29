@@ -5,6 +5,7 @@
 Profesor: Yuri Nuñez Medrano
 
 Laboratorio 1: Calculo de Pi con Threads 
+              _Metodo Bailey, Borwein & Ploufee_
 
 
 Nota:
